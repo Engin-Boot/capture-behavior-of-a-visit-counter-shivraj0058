@@ -7,7 +7,6 @@ that runs the visit-counter
   When the server restarts
   Then Countinue with the previous counter
   
-
 Scenario: Reconcile counts if the sensor is offline for a while
 
   Given foot-fall sensor at the door
